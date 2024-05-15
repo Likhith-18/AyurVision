@@ -41,7 +41,7 @@ error: subprocess-exited-with-error
 │ exit code: 1
 ╰─> See above for output.
 ```
-## Download Cmake and install it
+## Download Cmake and install it and restart once
 - [Cmake download](https://cmake.org/download/)
 
 ## Additional helper documents
